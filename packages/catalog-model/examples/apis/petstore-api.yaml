@@ -18,4 +18,4 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition:
-    $text: ./petstore.oas.yaml
+    $text: https://github.com/santhosh1994m/backstage/blob/master/packages/catalog-model/examples/apis/petstore.oas.yaml
